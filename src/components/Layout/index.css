@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.layoutContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 80vh;
+  padding: 20px;
+  margin: 20px;
+}

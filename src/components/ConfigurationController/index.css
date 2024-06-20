@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.configContainer {
+  padding: 10px 30px;
+  background-color: #475569;
+}
+.checkboxContainer {
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+}
